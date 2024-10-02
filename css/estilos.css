@@ -1,0 +1,16 @@
+*{
+    margin:10px;
+    padding: 10px;
+}
+body{
+    background-color: aqua;
+    color: antiquewhite;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 50%;
+    height: auto;
+}
